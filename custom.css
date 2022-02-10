@@ -12,7 +12,7 @@
   .topnav a {
     float: right;
     color: #f2f2f2;
-    text-align: center;
+    text-align: left;
     padding: 14px 16px;
     text-decoration: none;
     font-family: "Montserrat";
@@ -34,8 +34,8 @@
 
   #pxlogo{ 
 	position:absolute; 
-	top:0; 
-	left:0;   
+	top:5; 
+	left:5;   
     opacity: 1;
     transform: scale(0.4, 0.4) ;
     transform-origin: left top;
