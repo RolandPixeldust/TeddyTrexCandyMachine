@@ -3,8 +3,8 @@
 
 html body {
  
-    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(/banner-low.jpg) top no-repeat;
-
+    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(/banner-low.jpg) ;
+    background-repeat: repeat-x, no-repeat;
     background-size: cover;
     position: relative;
 }
