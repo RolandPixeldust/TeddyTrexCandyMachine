@@ -34,10 +34,10 @@
 
   #pxlogo{ 
 	
-	top:0; 
-	left:0;   
+	top:32; 
+	left:32;   
     opacity: 1;
-    padding: 15;
+    padding: 32;
     transform: scale(0.4, 0.4) ;
     transform-origin: left top;
    
