@@ -107,6 +107,9 @@ a:active {
     width:350px;
 }
 .pxlogo { 
+    position:absolute; 
+    top:0; 
+    left:0;
 	width:350px;
  }
    
