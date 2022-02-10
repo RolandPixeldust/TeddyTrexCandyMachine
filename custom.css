@@ -73,12 +73,11 @@
   }
 
   #pxlogo{ 
-	position:fixed; 
+	position:absolute; 
 	top:15px; 
 	left:15px;   
-    opacity: 1;
-    transform: scale(0.4, 0.4) ;
-    transform-origin: left top;
+   
+  
 } 
 html body {
  
