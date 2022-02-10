@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600..700&display=swap');
+
+
+html body {
+ 
+    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(/banner-low.jpg) top no-repeat;
+
+    background-size: cover;
+    position: relative;
+}
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:focus,
+a:active {
+    outline: none;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.mint-top {
+    text-align:center;
+    margin-top: 30px;
+   
+}
+
+.logo {
+    width:80px;
+}
+
+
+h1{
+    color:white;
+    font-family: "Oswald", Sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: "Oswald", Sans-serif;
+    font-weight: 600;
+    color:white;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: "Oswald", Sans-serif;
+    font-weight: 600;
+    color:white;
+    text-transform: uppercase;
+}
+
+
+.mint-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.mint-img img {
+    width:400px;
+    border-radius:20px;
+    margin:10px;
+
+
+}
+
+.MuiContainer-root {
+    margin-top:30px !important;
+    
+}
+
+
+footer {
+   
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 400px;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+  
+    
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-between;
+    
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+  }
+
+footer a {
+    text-transform: uppercase;
+    font-weight:700;
+}
+
+.mint-info {
+    max-width: 444px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    color:white;
+    background: rgba(0, 0, 0, 0.4);
+    padding:20px;
+    line-height: 1.5em;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.mint-warning {
+    max-width: 550px;
+    line-height: 1.5em;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    font-size: 15px;
+}
+
+
+@media screen and (max-width:670px) {
+ 
+    h1{
+        font-size: 50px;
+    }
+
+    .mint-img img {
+        width:340px;
+    }
+
+    footer {
+        width: 340px;
+    }
+
+    .mint-info {
+        max-width: 444px;
+        padding:10px;
+    }
+
+    .mint-warning {
+        max-width: 444px;
+        padding:10px;
+    }
+}
