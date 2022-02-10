@@ -111,6 +111,7 @@ a:active {
     top:0; 
     left:0;
 	width:350px;
+    transform: scale(0.5, 0.5);
  }
    
 
