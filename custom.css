@@ -89,6 +89,8 @@ a:active {
     outline: none;
 }
 
+
+
 .box {
     display: flex;
     align-items: center;
@@ -104,7 +106,10 @@ a:active {
 .logo {
     width:350px;
 }
-
+.pxlogo { 
+	width:350px;
+ }
+   
 
 h1{
     color:white;
