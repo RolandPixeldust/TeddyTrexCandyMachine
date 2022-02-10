@@ -34,8 +34,8 @@
 
   #pxlogo{ 
 	position:absolute; 
-	top:5; 
-	left:5;   
+	top:10; 
+	left:15;   
     opacity: 1;
     transform: scale(0.4, 0.4) ;
     transform-origin: left top;
