@@ -63,8 +63,7 @@ ul {
 	position:absolute; 
 	top:15px; 
 	left:15px;   
-    width:  50%;
-    height: 50%;
+    transform: scale(.5, .5);
    }
    
    
