@@ -64,6 +64,8 @@ ul {
 	top:15px; 
 	left:15px;   
     transform: scale(.5, .5);
+    width: 50%;
+    height: 50%;
    }
    
    
