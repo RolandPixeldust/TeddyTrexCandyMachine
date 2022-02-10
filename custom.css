@@ -20,7 +20,7 @@ ul {
   
   li a, .dropbtn {
     display: inline-block;
-    color: rgb(255, 255, 255); /*Normal Text Color*/
+    color: rgb(221, 221, 221); /*Normal Text Color*/
     text-align: center;
     font-family: "Montserrat";
     padding: 14px 16px;
@@ -28,7 +28,7 @@ ul {
   
   li a:hover, .dropdown:hover .dropbtn {
     background-color: rgba(255, 0, 0, 0); /*Box Over Title Selected*/
-    color: #d0e23f; /*Normal Text Color*/
+    color: #ffffff; /*Normal Text Color*/
   }
   
   li.dropdown {
@@ -41,7 +41,7 @@ ul {
     background-color: #000000; /*Dropdown BG color*/
     
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(212, 0, 255, 0);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.459);
     z-index: 1;
   }
   
