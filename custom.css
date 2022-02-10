@@ -17,7 +17,6 @@
     text-decoration: none;
     font-family: "Montserrat";
     font-size: 17px;
-    margin-right: 50px;
   }
   
   /* Change the color of links on hover */
@@ -37,8 +36,8 @@
 	position:fixed; 
 	top:0; 
 	left:0; 
-    
-    height: 100px;
+    width: auto;
+    height: 50px;
 } 
 html body {
  
