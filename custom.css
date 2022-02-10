@@ -36,7 +36,12 @@
 	position:fixed; 
 	top:0; 
 	left:0; 
-    transform: scale(0.5, 0.5)
+    
+    opacity: 1;
+    transform: scale(0.5, 0.5) 
+    opacity 1.6s ease-out 0s, transform 7.2s linear 0s;
+    transform-origin: center center;
+    animation: normal;
 } 
 html body {
  
