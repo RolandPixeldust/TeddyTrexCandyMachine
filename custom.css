@@ -63,9 +63,9 @@ ul {
 .avatar
 {
 	
-	width:50%;
-	position: absolute;
-    top: 70%;
+
+
+    vertical-align: bottom;
     left: 70%;
 }
 
