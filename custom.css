@@ -60,7 +60,15 @@ ul {
   }
 
 
-   
+.avatar
+{
+	
+	width:50%;
+	position: absolute;
+    top: 70%;
+    left: 70%;
+}
+
 html body 
 {
  
