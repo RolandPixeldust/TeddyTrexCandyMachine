@@ -8,7 +8,7 @@
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 15;
     padding: 0;
     overflow: hidden;
     background-color: rgba(51, 51, 51, 0);
