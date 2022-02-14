@@ -63,11 +63,20 @@ ul {
    
 html body 
 {
+ 
     background-image: linear-gradient(to bottom right, Black, #d0e23f);
-	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
+html {
+    height: 100%;
+}
+
+    
 .floating { 
     animation-name: floating;
     animation-duration: 3s;
