@@ -63,8 +63,8 @@ ul {
    
 html body 
 {
- 
     background-image: linear-gradient(to bottom right, Black, #d0e23f);
+    background-repeat: no-repeat;
 }
 
 .floating { 
