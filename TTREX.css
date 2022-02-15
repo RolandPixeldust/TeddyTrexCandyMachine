@@ -163,17 +163,15 @@ h3 {
 }
 
 
-footer {
-   
+footer 
+{  
     padding: 20px;
-    margin-top: 100px;
+    margin-top: 150px;
     margin-bottom: 20px;
-    width: 400px;
+    width: 250px;
     margin-left:auto;
     margin-right:auto;
-    color:white;
-  
-    
+    color:white;  
 }
 
 footer ul {
