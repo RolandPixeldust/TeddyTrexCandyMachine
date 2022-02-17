@@ -4,7 +4,7 @@
 
 *{
 	box-sizing: border-box;
-	margin: 5px 10px;
+	margin: 5px 5px;
 	padding: 0;
 }
 
@@ -14,11 +14,10 @@ li,a,button
 	font-family: "Montserrat";
 	font-weight: 500;
 	font-size: 20px;
-    color: white;
-	padding: 10px;
-	
-    text-decoration: none;
-	
+    	color: white;
+	padding: 10px;	
+    	text-decoration: none;	
+z-index: 2;
 }
 .nav
 {
@@ -26,6 +25,7 @@ li,a,button
 }
 .navlogo
 {
+z-index: 2;
 	transform-origin: left;
 	position: fixed;
 	left: 0;	
