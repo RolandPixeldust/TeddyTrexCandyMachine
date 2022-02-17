@@ -6,6 +6,7 @@
 	box-sizing: border-box;
 	margin: 5px 5px;
 	padding: 0;
+overflow: none;
 }
 
 li,a,button
@@ -17,6 +18,7 @@ li,a,button
     	color: white;
 	padding: 10px;	
     	text-decoration: none;	
+overflow: none;
 z-index: 2;
 }
 .nav
@@ -31,6 +33,7 @@ z-index: 2;
 	left: 0;	
 	transform: scale(.4,.4);
 	cursor: pointer;
+	overflow: none;
 }
 
 .nav_links
@@ -60,6 +63,7 @@ z-index: 2;
 
 li.dropdown {
 	display: inline-block;
+	overflow: none;
 	
   }
   
