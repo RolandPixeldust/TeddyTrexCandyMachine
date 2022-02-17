@@ -18,7 +18,7 @@
     opacity: 1;
     transform: scale(0.4, 0.4) ;
     transform-origin: left top;
-	margin: 20;
+	  margin: 20;
     padding:20;
 	z-index: 2;
  }
