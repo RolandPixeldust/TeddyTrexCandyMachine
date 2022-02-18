@@ -29,7 +29,6 @@ z-index: 2;
 {
   z-index: 2;
 	transform-origin: left;
-	position: fixed;
 	left: 10;
   top:10;	
 	transform: scale(.4,.4);
