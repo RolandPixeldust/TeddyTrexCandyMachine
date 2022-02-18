@@ -2,20 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400..700&display=swap');
 
 
-*{
-  font-family: "Montserrat", Sans-serif;
-  font-weight: 600;
-  color:white;
-  text-transform: uppercase;
-}
-
 html body 
 {
- background-image: linear-gradient(to bottom right, Black, #d0e23f);
+   background-image: linear-gradient(to bottom right, Black, #d0e23f);
    background-size: cover;
-	background-repeat: no-repeat;
+	  background-repeat: no-repeat;
     background-attachment: fixed;
-	height: 100%;
+	  height: 100%;
     margin: 0;
     
 }
@@ -32,11 +25,14 @@ html body
 }
 
 
-
+a {
+  color: white;
+  text-decoration: none;
+}
 
 a:focus,
 a:active {
-    outline: none;
+  outline: none;
 }
 
 
