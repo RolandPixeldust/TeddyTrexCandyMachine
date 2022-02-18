@@ -27,10 +27,11 @@ z-index: 2;
 }
 .navlogo
 {
-z-index: 2;
+  z-index: 2;
 	transform-origin: left;
 	position: fixed;
-	left: 0;	
+	left: 20;
+  top:20;	
 	transform: scale(.4,.4);
 	cursor: pointer;
 	overflow: none;
