@@ -79,15 +79,25 @@ h3 {
 
 
 .mint-img {
-  width:400px;
+ 
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 50px;
 }
 
+
+.crane-img img {
+  
+  height: 512px;
+  border-radius:20px;
+  margin:10px;
+  filter: drop-shadow(10px 5px 4px rgba(0, 0, 0, 0.35));
+}
+
 .mint-img img {
-  width:400px;
+ 
+  height: 512px;
   border-radius:20px;
   margin:10px;
   filter: drop-shadow(10px 5px 4px rgba(0, 0, 0, 0.35));
