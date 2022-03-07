@@ -62,8 +62,8 @@ a:active {
 
 .logo {
 	margin: 0;
-	width: 600px;
-	padding-bottom: 20px;
+	width: 700px;
+	padding-bottom: 10px;
   animation: bounce 2s ease infinite;
 }
 
@@ -138,16 +138,17 @@ h3 {
 .pxlogo
 {
   width: 180px;
-  margin-bottom: 60px;
 }
 
 footer {
+  display: flex;
   align-items: center;
   justify-content: center;
+
   padding: 20px;
   margin-top: 100px;
   margin-bottom: 20px;
-  width: 400px;
+  width: 450px;
   margin-left:auto;
   margin-right:auto;
   color:white;
