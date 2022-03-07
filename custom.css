@@ -64,7 +64,7 @@ a:active {
 	margin: 0;
 	width: 600px;
 	padding-bottom: 20px;
-  animation: gelatine 0.5s infinite;
+  animation: gelatine 1.5s infinite;
 }
 
 h1{
@@ -127,6 +127,7 @@ h3 {
 .pxlogo
 {
   width: 180px;
+  margin-bottom: 30px;
 }
 
 footer {
