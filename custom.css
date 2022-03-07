@@ -87,17 +87,10 @@ h3 {
 }
 
 
-.crane-img img {
-  
-  height: 512px;
-  border-radius:20px;
-  margin:10px;
-  filter: drop-shadow(10px 5px 4px rgba(0, 0, 0, 0.35));
-}
 
 .mint-img img {
  
-  height: 512px;
+  height: 420px;
   border-radius:20px;
   margin:10px;
   filter: drop-shadow(10px 5px 4px rgba(0, 0, 0, 0.35));
@@ -147,7 +140,8 @@ footer a {
     margin-right:auto;
     text-align: center;
     font-size: 15px;
-    
+    border-radius:20px;
+    filter: drop-shadow(10px 5px 4px rgba(0, 0, 0, 0.35));
 }
 
 .mint-warning {
