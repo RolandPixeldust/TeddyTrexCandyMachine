@@ -4,7 +4,7 @@
 
 html body 
 {
-   background-image: linear-gradient(to bottom right, Black, #d0e23f);
+   background-image:url("BrownBG.png"); 
    background-size: cover;
 	  background-repeat: no-repeat;
     background-attachment: fixed;
